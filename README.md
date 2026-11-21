@@ -6,18 +6,18 @@ A coherent statistical analysis tool for agricultural and biological experiments
 Elazab, A. (2026). StatPro: A coherent statistical analysis tool for agricultural and biological experiments. University of Concepción.
 
 ## Files
-- `StatPro_coherent.py` — complete single-file program
+- `StatPro.py` — complete single-file program
 - `StatPro_User_Manual_Detailed.md` — full user manual
 
 ## Quick start
 ```bash
 pip install numpy pandas scipy statsmodels openpyxl matplotlib
-python StatPro_coherent.py
+python StatPro.py
 ```
 
 Run validation:
 ```bash
-python StatPro_coherent.py --selftest
+python StatPro.py --selftest
 ```
 
 ## License

@@ -1,7 +1,7 @@
 # StatPro — Detailed User Manual
 **Complete guide to every tab, menu, button, and major function**
 
-File: `StatPro_coherent.py`  
+File: `StatPro.py`  
 Edition: coherent single-file
 
 ---
@@ -24,12 +24,12 @@ The Assumptions tab and the ANOVA/KW tab always use the **same one-way residual 
 ## 2. Starting the program
 
 ```bash
-python StatPro_coherent.py
+python StatPro.py
 ```
 
 Built-in tests:
 ```bash
-python StatPro_coherent.py --selftest
+python StatPro.py --selftest
 ```
 
 If packages are missing the program prints exactly which ones to install.
