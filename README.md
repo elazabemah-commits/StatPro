@@ -1,9 +1,9 @@
 # StatPro
 
-A coherent statistical analysis tool for agricultural and biological experiments.
+Statistical analysis tool for agricultural and biological experiments.
 
 **Citation**  
-Elazab, A. (2026). StatPro: A coherent statistical analysis tool for agricultural and biological experiments. University of Concepción.
+Elazab, A. (2026). StatPro: Statistical analysis tool for agricultural and biological experiments. University of Concepción.
 
 ## Files
 - `StatPro.py` — complete single-file program
